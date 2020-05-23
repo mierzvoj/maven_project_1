@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e27221-b5ed-46cd-b2f6-fee8f5fbb953" name="Default Changelist" comment="" />
+    <list default="true" id="49e27221-b5ed-46cd-b2f6-fee8f5fbb953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mav_val_ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/BookTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/BookValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/BooksCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/ConstraintValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/CustomersList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pjatk/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +32,9 @@
         <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cIoDIvPMgOAu46KZsMGh08mcBi" />
   <component name="ProjectViewState">
@@ -90,6 +110,7 @@
       <workItem from="1590263792352" duration="2090000" />
       <workItem from="1590266372492" duration="555000" />
       <workItem from="1590266965587" duration="3323000" />
+      <workItem from="1590270374285" duration="46000" />
     </task>
     <servers />
   </component>
